@@ -48,7 +48,7 @@
 			android:singleLine="true" />
 
         <Button
-            android:id="@+id/login"
+            android:id="@+id/add"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/password"
