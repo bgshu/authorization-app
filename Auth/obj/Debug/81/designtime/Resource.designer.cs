@@ -2366,8 +2366,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C0014
 			public const int activity_chooser_view_content = 2131492884;
 			
-			// aapt resource value: 0x7F010005
-			public const int add = 2130771973;
+			// aapt resource value: 0x7F010008
+			public const int add = 2130771976;
 			
 			// aapt resource value: 0x7F0C0016
 			public const int alertTitle = 2131492886;
@@ -2444,8 +2444,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C002E
 			public const int end_padder = 2131492910;
 			
-			// aapt resource value: 0x7F010002
-			public const int errorLabel = 2130771970;
+			// aapt resource value: 0x7F010005
+			public const int errorLabel = 2130771973;
 			
 			// aapt resource value: 0x7F0C0030
 			public const int expanded_menu = 2131492912;
@@ -2476,6 +2476,9 @@ namespace Auth
 			
 			// aapt resource value: 0x7F0C0038
 			public const int image = 2131492920;
+			
+			// aapt resource value: 0x7F010002
+			public const int imageView_poster = 2130771970;
 			
 			// aapt resource value: 0x7F0C000C
 			public const int info = 2131492876;
@@ -2546,8 +2549,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C004F
 			public const int parent_matrix = 2131492943;
 			
-			// aapt resource value: 0x7F010004
-			public const int password = 2130771972;
+			// aapt resource value: 0x7F010007
+			public const int password = 2130771975;
 			
 			// aapt resource value: 0x7F0C0050
 			public const int pin = 2131492944;
@@ -2690,6 +2693,12 @@ namespace Auth
 			// aapt resource value: 0x7F0C007C
 			public const int textSpacerNoTitle = 2131492988;
 			
+			// aapt resource value: 0x7F010003
+			public const int textView_name = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int textView_release = 2130771972;
+			
 			// aapt resource value: 0x7F0C007D
 			public const int text_input_password_toggle = 2131492989;
 			
@@ -2735,8 +2744,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C008D
 			public const int up = 2131493005;
 			
-			// aapt resource value: 0x7F010003
-			public const int userName = 2130771971;
+			// aapt resource value: 0x7F010006
+			public const int userName = 2130771974;
 			
 			// aapt resource value: 0x7F0C008E
 			public const int view_offset_helper = 2131493006;
@@ -2924,7 +2933,10 @@ namespace Auth
 			public const int design_text_input_password_icon = 2131689512;
 			
 			// aapt resource value: 0x7F020002
-			public const int Login = 2130837506;
+			public const int list_item = 2130837506;
+			
+			// aapt resource value: 0x7F020003
+			public const int Login = 2130837507;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;
