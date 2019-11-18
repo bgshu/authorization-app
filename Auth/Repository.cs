@@ -39,5 +39,10 @@ namespace Auth
         {
             db.Insert(account);
         }
+
+        public bool isUsernameExisting(string username)
+        {
+            return db.Table<Account>().Where(account => account.Username == username).ToList().Count > 0;
+        }
     }
 }

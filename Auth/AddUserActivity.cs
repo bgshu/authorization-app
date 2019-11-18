@@ -20,17 +20,18 @@ namespace Auth
         {
             base.OnCreate(savedInstanceState);
 
-            Verifier verifier = new Verifier();
 
             Repository repo = new Repository();
             repo.initializeDb();
             usernames = repo.getUsernames();
 
+            Verifier verifier = new Verifier(repo);
+
             // Create your application here
             SetContentView(Resource.Layout.Login);
 
             //Initializing from layout
-            Button login = FindViewById<Button>(Resource.Id.login);
+            Button login = FindViewById<Button>(Resource.Id.add);
             EditText usernameField = FindViewById<EditText>(Resource.Id.userName);
             EditText passwordField = FindViewById<EditText>(Resource.Id.password);
             TextView errorText = FindViewById<TextView>(Resource.Id.errorLabel);

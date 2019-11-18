@@ -15,14 +15,19 @@ namespace Auth
 {
     class Verifier
     {
-        Repository repo = new Repository();
+        Repository repo = null;
         private Regex r = new Regex("^(?=.*\\d)(?=.*[a-zA-Z]).{1,}$"); //Checks for alphanum one of each required
         private Regex s = new Regex("^([a-zA-z0-9]{2})\\1{1,}$"); //Will return true if there's a repeating sequence
         private Regex t = new Regex("^\\w{5,12}$"); //Checks for length of 5-12 chars
 
+
+        public Verifier(Repository repo)
+        {
+            this.repo = repo;
+        }
         public bool isUniqueName(string name)
         {
-            if (repo.getUsernames().Contains(name))
+            if (repo.isUsernameExisting(name))
             {
                 return false;
             }

@@ -2366,8 +2366,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C0014
 			public const int activity_chooser_view_content = 2131492884;
 			
-			// aapt resource value: 0x7F0C0015
-			public const int add = 2131492885;
+			// aapt resource value: 0x7F010005
+			public const int add = 2130771973;
 			
 			// aapt resource value: 0x7F0C0016
 			public const int alertTitle = 2131492886;
@@ -2503,9 +2503,6 @@ namespace Auth
 			
 			// aapt resource value: 0x7F0C0041
 			public const int list_item = 2131492929;
-			
-			// aapt resource value: 0x7F010005
-			public const int login = 2130771973;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
