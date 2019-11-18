@@ -1,0 +1,6 @@
+C:\Users\ben.shu\Source\Repos\bgshu\authorization-app\Auth\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\ben.shu\Source\Repos\bgshu\authorization-app\Auth\obj\Debug\81\UserAdder.nuget.stamp
+C:\Users\ben.shu\Source\Repos\bgshu\authorization-app\Auth\obj\Debug\81\UserAdder.csprojAssemblyReference.cache
+C:\Users\ben.shu\Source\Repos\bgshu\authorization-app\Auth\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\ben.shu\Source\Repos\bgshu\authorization-app\Auth\obj\Debug\81\res.flag
+C:\Users\ben.shu\Source\Repos\bgshu\authorization-app\Auth\obj\Debug\81\UserAdder.csproj.CoreCompileInputs.cache

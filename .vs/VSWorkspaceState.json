@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Auth"
   ],
-  "SelectedNode": "\\Auth.sln",
+  "SelectedNode": "\\UserAdder.sln",
   "PreviewInSolutionExplorer": false
 }

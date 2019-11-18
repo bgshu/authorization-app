@@ -2444,8 +2444,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C002E
 			public const int end_padder = 2131492910;
 			
-			// aapt resource value: 0x7F020002
-			public const int errorLabel = 2130837506;
+			// aapt resource value: 0x7F010002
+			public const int errorLabel = 2130771970;
 			
 			// aapt resource value: 0x7F0C0030
 			public const int expanded_menu = 2131492912;
@@ -2504,8 +2504,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C0041
 			public const int list_item = 2131492929;
 			
-			// aapt resource value: 0x7F020005
-			public const int login = 2130837509;
+			// aapt resource value: 0x7F010005
+			public const int login = 2130771973;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
@@ -2549,8 +2549,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C004F
 			public const int parent_matrix = 2131492943;
 			
-			// aapt resource value: 0x7F020004
-			public const int password = 2130837508;
+			// aapt resource value: 0x7F010004
+			public const int password = 2130771972;
 			
 			// aapt resource value: 0x7F0C0050
 			public const int pin = 2131492944;
@@ -2738,8 +2738,8 @@ namespace Auth
 			// aapt resource value: 0x7F0C008D
 			public const int up = 2131493005;
 			
-			// aapt resource value: 0x7F020003
-			public const int userName = 2130837507;
+			// aapt resource value: 0x7F010003
+			public const int userName = 2130771971;
 			
 			// aapt resource value: 0x7F0C008E
 			public const int view_offset_helper = 2131493006;
@@ -2884,9 +2884,6 @@ namespace Auth
 			// aapt resource value: 0x7F0F001A
 			public const int abc_select_dialog_material = 2131689498;
 			
-			// aapt resource value: 0x7F010002
-			public const int activity_main = 2130771970;
-			
 			// aapt resource value: 0x7F0F001B
 			public const int design_bottom_navigation_item = 2131689499;
 			
@@ -2929,8 +2926,8 @@ namespace Auth
 			// aapt resource value: 0x7F0F0028
 			public const int design_text_input_password_icon = 2131689512;
 			
-			// aapt resource value: 0x7F010003
-			public const int Login = 2130771971;
+			// aapt resource value: 0x7F020002
+			public const int Login = 2130837506;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;
